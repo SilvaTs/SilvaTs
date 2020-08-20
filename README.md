@@ -8,7 +8,7 @@
 
 <div>
 <p>👨‍💻Android Developer</p>
-<p>🎓 Graduate: Systems Analysis and Development</p>
+<p>🎓 Graduation: Systems Analysis and Development</p>
 <p>💻 Programming: Android, Java, Php</p>
 <p>💾 Databases: Postgres, MySQL </p>
 <p>📚 I’m currently learning: NodeJS, ReactJS and React Native</p>
