@@ -7,7 +7,7 @@
 **about me:** 
 
 <div>
-<p>👨‍💻Androind Developer</p>
+<p>👨‍💻Android Developer</p>
 <p>🎓 Graduate: Systems Analysis and Development</p>
 <p>💻 Programming: Android, Java, Php</p>
 <p>💾 Databases: Postgres, MySQL </p>
