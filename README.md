@@ -1,7 +1,7 @@
 # Daniel Silva
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/) 
 
 --------------------------
 **about me:** 
