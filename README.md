@@ -73,10 +73,6 @@
   <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
   </span>
 
-  <span title="Postgres">
-  <img alt="Postgres" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/postgres.svg"/>
-  </span>
-
   <span title="Vs Code">
   <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/vs-code.svg"/>
   </span>
