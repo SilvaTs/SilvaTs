@@ -38,21 +38,22 @@
   <span title="Php">
   <img alt="Php" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/php.svg"/>
   </span>
-  <span title="Vs Code">
-  <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/vs-code.svg"/>
+
+  <span title="Java">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
   </span>
+
   <span title="NodeJS">
   <img alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/nodejs.svg"/>
   </span>
   <span title="React">
   <img alt="React" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/react.svg"/>
   </span>
-   <span title="React Native">
-  <img alt="React Native" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/reactnative.svg"/>
-  </span>
+  
   <span title="Typescript">
   <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/typescript.svg"/>
   </span>
+
   <span title="Javascript">
   <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/javascript.svg"/>
   </span>
@@ -71,8 +72,10 @@
   <span title="MySQL">
   <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
   </span>
-  <span title="Java">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45px" height="45px"/> 
+
+ <span title="Vs Code">
+  <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/vs-code.svg"/>
   </span>
+
   <br />
 </div>
