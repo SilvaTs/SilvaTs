@@ -35,6 +35,11 @@
   <span title="Android">
   <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
   </span>
+
+  <span title="Flutter">
+  <img alt="Flutter" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/flutter.png"/>
+  </span>
+
   <span title="Php">
   <img alt="Php" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/php.svg"/>
   </span>
