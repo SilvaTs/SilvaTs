@@ -11,7 +11,7 @@
 <p>🎓 Graduation: Systems Analysis and Development</p>
 <p>💻 Programming: Android, Java, Php</p>
 <p>💾 Databases: Postgres, MySQL </p>
-<p>📚 I’m currently learning: NodeJS, ReactJS and React Native</p>
+<p>📚 I’m currently learning: NodeJS, ReactJS and Flutter</p>
 <p>🧑‍🎓Currently studying English</p>
 </div>
 
