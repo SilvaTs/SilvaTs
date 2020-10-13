@@ -68,8 +68,8 @@
   <span title="CSS">
   <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/css.svg"/>
   </span>
-  <span title="Netbeans">
-  <img alt="Netbeans" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netbeans.svg"/>
+  <span title="Android Studio">
+  <img alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/androidstudio.png"/>
   </span>
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/git.svg"/>
