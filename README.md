@@ -30,8 +30,10 @@
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
-[![Twitter: danielsilvatsi](https://img.shields.io/twitter/follow/daniel silva?style=social)](https://twitter.com/danielsilvatsi)
-[![Linkedin: daniel-silva-tsi](https://img.shields.io/badge/-daniel silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/daniel-silva-tsi/)
+[![Twitter: danielsilvatsi](https://img.shields.io/twitter/follow/danielsilvatsi?style=social)](https://twitter.com/danielsilvatsi)
+[![Linkedin: daniel-silva-tsi](https://img.shields.io/badge/-daniel-silva-tsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/daniel-silva-tsi/)
+
+[![Linkedin: daniel-silva-tsi](https://img.shields.io/badge/-daniel-silva-tsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/)
 [![GitHub Daniel Silva](https://img.shields.io/github/followers/SilvaTs?label=follow&style=social)](https://github.com/SilvaTs)
 
 
