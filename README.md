@@ -15,6 +15,18 @@
 <p>🧑‍🎓Currently studying English</p>
 </div>
 
+***
+
+<a href="https://github.com/SilvaTs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/SilvaTs?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaTs&theme=onedark" />
+</a>
+
+***
+
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
