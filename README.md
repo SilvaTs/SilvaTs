@@ -1,7 +1,5 @@
 # Daniel Silva
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SilvaTs&label=Views&color=blue&style=plastic" alt="SilvaTs" /> </p>
-
 <a href="https://twitter.com/danielsilvatsi">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,17 +16,14 @@
 --------------------------
 ## About me
 
-<div>
-<p>🔭 I’m currently working on [HE Sistemas](http://heinfo.com.br/).</p>
-<p>👨‍💻Android Developer</p>
-<p>🎓 Graduation: Systems Analysis and Development</p>
-<p>💻 Programming: Android, Java, Php</p>
-<p>💾 Databases: Postgres, MySQL </p>
-<p>📚 I’m currently learning: NodeJS, ReactJS and Flutter</p>
-<p>🧑‍🎓Currently studying English</p>
-</div>
+- 🔭 I’m currently working on [HE Sistemas](http://heinfo.com.br/).
+- 👨‍💻Android Developer
+- 🎓 Graduation: Systems Analysis and Development
+- 💻 Programming: Android, Java, Php
+- 💾 Databases: Postgres, MySQL 
+- 📚 I’m currently learning: NodeJS, ReactJS and Flutter.
+- 🧑‍🎓Currently studying English
 
-***
 
 <a href="https://github.com/SilvaTs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&theme=chartreuse-dark" />
