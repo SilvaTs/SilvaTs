@@ -18,11 +18,11 @@
 ***
 
 <a href="https://github.com/SilvaTs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&theme=drácula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/SilvaTs?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaTs&theme=drácula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaTs&theme=chartreuse-dark" />
 </a>
 
 ***
