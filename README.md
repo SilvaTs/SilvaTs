@@ -1,12 +1,25 @@
 # Daniel Silva
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="SilvaTs" /> </p>
 
+<a href="https://twitter.com/danielsilvatsi">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/daniel-silva-tsi">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/SilvaTs">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
+<br/>
+<br/>
 
 --------------------------
 ## About me
 
 <div>
+<p>🔭 I’m currently working on [HE Sistemas](http://heinfo.com.br/).</p>
 <p>👨‍💻Android Developer</p>
 <p>🎓 Graduation: Systems Analysis and Development</p>
 <p>💻 Programming: Android, Java, Php</p>
