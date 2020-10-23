@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/SilvaTs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark"/>
 </a>
 
 <a href="https://github.com/SilvaTs?tab=repositories">
