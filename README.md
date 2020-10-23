@@ -34,10 +34,6 @@
 [![Linkedin: daniel-silva-tsi](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/)
 [![GitHub Daniel Silva](https://img.shields.io/github/followers/SilvaTs?label=follow&style=social)](https://github.com/SilvaTs)
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
-
 </p>
  
  <p align="center"> 
