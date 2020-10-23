@@ -30,6 +30,8 @@
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
+[![Twitter Badge](https://img.shields.io/badge/-@https://twitter.com/danielsilvatsi-6633cc?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/danielsilvatsi)](https://twitter.com/https://twitter.com/danielsilvatsi)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/) 
 
 </p>
