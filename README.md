@@ -21,7 +21,7 @@
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, Php
 - 💾 Databases: Postgres, MySQL 
-- 📚 I’m currently learning: NodeJS, ReactJS and Flutter.
+- 📚 I’m currently learning: NodeJS, ReactJS and React Native.
 - 🧑‍🎓Currently studying English
 
 
@@ -56,10 +56,6 @@
   <!-- ### Languages and Tools: -->
   <span title="Android">
   <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
-  </span>
-
-  <span title="Flutter">
-  <img alt="Flutter" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/flutter.png"/>
   </span>
 
   <span title="Php">
