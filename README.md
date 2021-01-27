@@ -62,8 +62,8 @@
   <img alt="Php" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/php.svg"/>
   </span>
 
-  <span title="Java">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java.svg" alt="java" width="45px" height="45px"/> 
+ <span title="Java">
+  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/Java.svg"/>
   </span>
 
   <span title="NodeJS">
@@ -92,8 +92,9 @@
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/git.svg"/>
   </span>
-  <span title="MySQL">
-  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql.svg" alt="mysql" width="45px" height="45px"/>
+
+  <span title="Mysql">
+  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/mysql.svg"/>
   </span>
 
   <span title="Vs Code">
