@@ -63,7 +63,7 @@
   </span>
 
  <span title="Java">
-  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/Java.svg"/>
+  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/java.svg"/>
   </span>
 
   <span title="NodeJS">
@@ -89,6 +89,7 @@
   <span title="Android Studio">
   <img alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/androidstudio.png"/>
   </span>
+
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/git.svg"/>
   </span>
