@@ -16,7 +16,7 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working on [HE Sistemas](http://heinfo.com.br/).
+- 🔭 I’m currently working at [HE Sistemas](http://heinfo.com.br/).
 - 👨‍💻Android Developer
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, Php
