@@ -21,7 +21,6 @@
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, Php
 - 💾 Databases: Postgres, MySQL 
-- 📚 I’m currently learning: NodeJS, ReactJS and React Native.
 - 🧑‍🎓Currently studying English
 
 
@@ -66,11 +65,11 @@
   <img alt="Java" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/java.svg"/>
   </span>
 
-  <span title="NodeJS">
-  <img alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/nodejs.svg"/>
+  <span title="C#">
+  <img alt="C#" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/csharp.png"/>
   </span>
-  <span title="React">
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/react.svg"/>
+  <span title="Visual Studio">
+  <img alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/visual-studio.png"/>
   </span>
   
   <span title="Typescript">
