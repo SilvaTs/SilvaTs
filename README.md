@@ -17,9 +17,9 @@
 ## About me
 
 - 🔭 I’m currently working at AES Tecnologia
-- 👨‍💻 Developer |C#|.Net 
+- 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
-- 💻 Programming: Android, Java,C#,.Net
+- 💻 Programming: Android, Java, C#, .Net
 - 💾 Databases: Postgres, MySQL 
 - 🧑‍🎓Currently studying English
 
