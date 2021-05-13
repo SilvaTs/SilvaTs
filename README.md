@@ -16,10 +16,10 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at [HE Sistemas](http://heinfo.com.br/).
-- 👨‍💻Android Developer
+- 🔭 I’m currently working at AES Tecnologia
+- 👨‍💻 Developer |C#|.Net 
 - 🎓 Graduation: Systems Analysis and Development
-- 💻 Programming: Android, Java, Php
+- 💻 Programming: Android, Java,C#,.Net
 - 💾 Databases: Postgres, MySQL 
 - 🧑‍🎓Currently studying English
 
@@ -57,8 +57,8 @@
   <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
   </span>
 
-  <span title="Php">
-  <img alt="Php" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/php.svg"/>
+  <span title=".Net">
+  <img alt="aspnetcore" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/aspnetcore.svg"/>
   </span>
 
  <span title="Java">
