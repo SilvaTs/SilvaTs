@@ -58,7 +58,7 @@
   </span>
 
   <span title=".Net">
-  <img alt="netcore" width="40px" heigth="160px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netcore.png"/>
+  <img alt="netcore" width="40px" heigth="10px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/NetCoreLogo.png"/>
   </span>
 
  <span title="Java">
