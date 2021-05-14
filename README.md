@@ -58,7 +58,7 @@
   </span>
 
   <span title="netcore">
-  <img alt="netcore" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netcore.png"/>
+  <img alt="netcore" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netcore.png"/>
   </span>
 
  <span title="Java">
