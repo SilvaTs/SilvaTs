@@ -58,7 +58,7 @@
   </span>
 
   <span title=".Net">
-  <img alt="aspnetcore" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/aspnetcore.svg"/>
+  <img alt="aspnetcore" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/aspnetcore.png"/>
   </span>
 
  <span title="Java">
