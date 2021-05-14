@@ -57,7 +57,7 @@
   <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
   </span>
 
-  <span title=".Net">
+  <span title="netcore">
   <img alt="netcore" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netcore.png"/>
   </span>
 
