@@ -16,7 +16,7 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at AES Tecnologia
+- 🔭 I’m currently working at Plattec
 - 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, C#, .Net
