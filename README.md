@@ -16,12 +16,12 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at AES Tecnologia
+- 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/).
 - 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, C#, .Net
 - 💾 Databases: Postgres, MySQL 
-- 🧑‍🎓Currently studying English
+- 🧑‍🎓Currently studying English, Azure, hexagonal architecture
 
 
 <a href="https://github.com/SilvaTs">
@@ -72,6 +72,14 @@
   <img alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/visual-studio.png"/>
   </span>
   
+  <span title="Azure">
+  <img alt="azure" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/azure.svg"/>
+  </span>
+
+  <span title="Docker">
+  <img alt="docker" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/docker.svg"/>
+  </span>
+
   <span title="Typescript">
   <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/typescript.svg"/>
   </span>
