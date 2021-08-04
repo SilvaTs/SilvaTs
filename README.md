@@ -16,11 +16,7 @@
 --------------------------
 ## About me
 
-<<<<<<< HEAD
-- 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/).
-=======
-- 🔭 I’m currently working at Plattec
->>>>>>> 65a0374cadf6060a3bc3ae0316183c8f9749efa6
+- 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/)
 - 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, C#, .Net
@@ -82,10 +78,6 @@
 
   <span title="Docker">
   <img alt="docker" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/docker.svg"/>
-  </span>
-
-  <span title="Typescript">
-  <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/typescript.svg"/>
   </span>
 
   <span title="Javascript">
