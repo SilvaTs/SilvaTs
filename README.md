@@ -16,7 +16,11 @@
 --------------------------
 ## About me
 
+<<<<<<< HEAD
 - 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/).
+=======
+- 🔭 I’m currently working at Plattec
+>>>>>>> 65a0374cadf6060a3bc3ae0316183c8f9749efa6
 - 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, C#, .Net
