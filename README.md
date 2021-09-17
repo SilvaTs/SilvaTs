@@ -37,7 +37,7 @@
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
-  <a href="https://www.instagram.com/danielsilvatsi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 [![Twitter: danielsilvatsi](https://img.shields.io/twitter/follow/danielsilvatsi?style=social)](https://twitter.com/danielsilvatsi)
 [![Linkedin: daniel-silva-tsi](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-tsi/)](https://www.linkedin.com/in/daniel-silva-tsi/)
 [![GitHub Daniel Silva](https://img.shields.io/github/followers/SilvaTs?label=follow&style=social)](https://github.com/SilvaTs)
