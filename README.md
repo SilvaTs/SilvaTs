@@ -23,7 +23,7 @@
 - 👨‍💻 Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💻 Programming: Android, Java, C#, .Net
-- 💾 Databases: Postgres, MySQL 
+- 💾 Databases: Postgres, MySQL, Sql Server 
 - 🧑‍🎓Currently studying English, Azure, hexagonal architecture
 
 
