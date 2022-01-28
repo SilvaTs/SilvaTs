@@ -55,7 +55,8 @@
   <br />
 
   <!-- ### Languages and Tools: -->
- 
+  <br />
+  
   <span title="dotnet">
   <img alt="dotnet" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/dotnet.svg"/>
   </span>
