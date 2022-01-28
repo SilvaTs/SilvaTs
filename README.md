@@ -20,12 +20,10 @@
 ## About me
 
 - 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/)
-- 👨‍💻 Developer | C# | .Net 
+- 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
-- 💻 Programming: Android, Java, C#, .Net
 - 💾 Databases: Postgres, MySQL, Sql Server 
 - 🧑‍🎓Currently studying English, Azure, hexagonal architecture
-
 
 <a href="https://github.com/SilvaTs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark"/>
