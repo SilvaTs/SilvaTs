@@ -56,7 +56,7 @@
 
   <!-- ### Languages and Tools: -->
   <br />
-  
+
   <span title="dotnet">
   <img alt="dotnet" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/dotnet.svg"/>
   </span>
@@ -84,8 +84,12 @@
   <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/mysql.svg"/>
   </span>
 
-  <span title="Sql Server">
+ <span title="Sql Server">
   <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/sqlServer.png"/>
+  </span>
+
+  <span title="Postgres">
+  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/postgres.svg"/>
   </span>
 
   <span title="Vs Code">
