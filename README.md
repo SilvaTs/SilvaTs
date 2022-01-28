@@ -55,16 +55,9 @@
   <br />
 
   <!-- ### Languages and Tools: -->
-  <span title="Android">
-  <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
-  </span>
-
+ 
   <span title="dotnet">
   <img alt="dotnet" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/dotnet.svg"/>
-  </span>
-
- <span title="Java">
-  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/java.svg"/>
   </span>
 
   <span title="C#">
@@ -82,25 +75,16 @@
   <img alt="docker" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/docker.svg"/>
   </span>
 
-  <span title="Javascript">
-  <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/javascript.svg"/>
-  </span>
-  <span title="HTML">
-  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/html.svg"/>
-  </span>
-  <span title="CSS">
-  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/css.svg"/>
-  </span>
-  <span title="Android Studio">
-  <img alt="Android Studio" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/androidstudio.png"/>
-  </span>
-
   <span title="Git">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/git.svg"/>
   </span>
 
   <span title="Mysql">
   <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/mysql.svg"/>
+  </span>
+
+  <span title="Sql Server">
+  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/sqlServer.png"/>
   </span>
 
   <span title="Vs Code">
