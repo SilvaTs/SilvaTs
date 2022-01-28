@@ -89,7 +89,7 @@
   </span>
 
   <span title="Postgres">
-  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/postgres.svg"/>
+  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/postgres.png"/>
   </span>
 
   <span title="Vs Code">
