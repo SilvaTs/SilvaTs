@@ -23,7 +23,7 @@
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💾 Databases: Postgres, MySQL, Sql Server 
-- 🧑‍🎓Currently studying English, Azure, hexagonal architecture
+- 🧑‍🎓Currently studying English, Azure, Docker, Kubernetes
 
 <a href="https://github.com/SilvaTs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark"/>
@@ -74,6 +74,10 @@
 
   <span title="Docker">
   <img alt="docker" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/docker.svg"/>
+  </span>
+
+   <span title="Kubernetes">
+  <img alt="kubernetes" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/kubernetes.svg"/>
   </span>
 
   <span title="Git">
