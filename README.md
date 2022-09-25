@@ -19,7 +19,7 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at [Squadra Digital](https://www.squadra.com.br/)
+- 🔭 I’m currently working at [Lead Dell](https://leadfortaleza.com.br/portal)
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💾 Databases: Postgres, MySQL, Sql Server 
