@@ -19,7 +19,7 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at [Lead Dell](https://leadfortaleza.com.br/portal)
+- 🔭 I’m currently working at [Dell Lead](https://leadfortaleza.com.br/portal)
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 💾 Databases: Postgres, MySQL, Sql Server 
