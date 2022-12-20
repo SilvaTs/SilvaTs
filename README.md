@@ -35,7 +35,7 @@
 
 <div style="display: inline_block"><br>
 
-## Minhas Skills
+## My Skills
 
 **Programming Languages:**
 
