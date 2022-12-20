@@ -22,7 +22,6 @@
 - 🔭 I’m currently working at [Dell Lead](https://leadfortaleza.com.br/portal)
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
-- 💾 Databases: Postgres, MySQL, Sql Server 
 - 🧑‍🎓Currently studying English
 
 ## My github stats
@@ -53,6 +52,11 @@
   ![](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
    ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular)
   ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+
+   **Database:**
+  
+  ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+   ![](https://img.shields.io/badge/sql-server-CC2927?&style=for-the-badge&logo=sql-server&logoColor=white)
 
 **Devops:**
 
