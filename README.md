@@ -25,13 +25,15 @@
 - 💾 Databases: Postgres, MySQL, Sql Server 
 - 🧑‍🎓Currently studying English, Azure, Docker, Kubernetes
 
-<a href="https://github.com/SilvaTs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark"/>
-</a>
+## My github stats
 
-<a href="https://github.com/SilvaTs?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaTs&theme=chartreuse-dark" />
-</a>
+<div display="inline-block" align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaTs&theme=chartreuse-dark&custom_title=Linguagens%20mais%20usadas&layout=default)
+</div>
+
+<div style="display: inline_block"><br>
 
 ***
 
