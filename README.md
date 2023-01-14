@@ -28,8 +28,8 @@
 
 <div display="inline-block" align="center">
 
-![](https://silva-ts.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark)
-![](https://silva-ts.vercel.app/api/top-langs/?username=SilvaTs&theme=chartreuse-dark&custom_title=Linguagens%20mais%20usadas&layout=default)
+![](https://silva-ts-rkge-silvats.vercel.app/api?username=SilvaTs&show_icons=true&count_private=true&theme=chartreuse-dark)
+![](https://silva-ts-rkge-silvats.vercel.app/api/top-langs/?username=SilvaTs&theme=chartreuse-dark&custom_title=Linguagens%20mais%20usadas&layout=default)
 </div>
 
 <div style="display: inline_block"><br>
