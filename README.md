@@ -24,9 +24,7 @@
 - 🎓 Graduation: Systems Analysis and Development
 - 🧑‍🎓Currently studying English
 
-## My github stats
-
-<div style="display: inline_block"><br>
+ <br>
 
 ## My Skills
 
