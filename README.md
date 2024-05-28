@@ -76,8 +76,6 @@
   <h2>:mailbox_with_no_mail: Social Network</h2>
  
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniel-silva-tsi/)
-[![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsilvatsi/)
-[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danielsilvatsi)
 
 </div>
  </b><br>
