@@ -22,6 +22,7 @@
 - 🔭 I’m currently working at [Dell Lead](https://leadfortaleza.com.br/portal)
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
+- 👨‍🎓 Postgraduate: Software Engineer
 - 🧑‍🎓Currently studying English
 
  <br>
