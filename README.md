@@ -38,17 +38,10 @@
  
  ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white")
 
-**Front End Development:**
-
-  ![](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-   ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular)
-  ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-
-   **Database:**
+**Database:**
   
   ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-   ![](https://img.shields.io/badge/sql-server-CC2927?&style=for-the-badge&logo=sql-server&logoColor=white)
+  ![](https://img.shields.io/badge/sql-server-CC2927?&style=for-the-badge&logo=sql-server&logoColor=white)
 
 **Devops:**
 
@@ -58,9 +51,8 @@
 
 **Testing:**
 
-![](https://img.shields.io/badge/Jasmine-8A4182?&style=for-the-badge&logo=Jasmine&logoColor=white)
 ![](https://img.shields.io/badge/xunit-5C2D91.svg?&style=for-the-badge&logo=unit&logoColor=white)
-![](https://img.shields.io/badge/karma-4EAA25.svg?&style=for-the-badge&logo=karmalogo&logoColor=white)
+
 
 **Observability:**
 
