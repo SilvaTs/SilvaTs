@@ -12,7 +12,7 @@
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 👨‍🎓 Postgraduate: Software Engineer
-- 🧑‍🎓Currently studying English
+- 🧑 Currently studying English
 
  <br>
 
