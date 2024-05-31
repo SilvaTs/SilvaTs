@@ -9,7 +9,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🔭 I’m currently working at [Dell Lead](https://leadfortaleza.com.br/portal)
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 👨‍🎓 Postgraduate: Software Engineer
