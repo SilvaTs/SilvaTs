@@ -30,6 +30,7 @@
 
 **Database:**
   
+  ![](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
   ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![](https://img.shields.io/badge/sql-server-CC2927?&style=for-the-badge&logo=sql-server&logoColor=white)
 
