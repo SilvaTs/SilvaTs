@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>  
-  <br> I'm Daniel Silva, Backend Developer :computer:<br>
+  <br> I'm Daniel Silva, Software Engineer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently working at [Dell Lead](https://leadfortaleza.com.br/portal)
+- 🔭 I’m currently working at [Ibrowse Consultoria](https://www.ibrowse.com.br/)
 - 👨‍💻 Backend Developer | C# | .Net 
 - 🎓 Graduation: Systems Analysis and Development
 - 👨‍🎓 Postgraduate: Software Engineer
